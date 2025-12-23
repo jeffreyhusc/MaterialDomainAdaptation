@@ -2,7 +2,7 @@
 Code for Improving realistic material property prediction using domain adaptation based machine learning.
 
 ### Cite our paper:
-Hu, Jeffrey, David Liu, Nihang Fu, and Rongzhi Dong. Realistic material
+**Hu, Jeffrey**, David Liu, Nihang Fu, and Rongzhi Dong. Realistic material
 property prediction using domain adaptation based machine learning. Dig-
 ital Discovery 3, no. 2 (2024): 300-312. [PDF](https://pubs.rsc.org/en/content/articlelanding/2024/dd/d3dd00162h)
 
