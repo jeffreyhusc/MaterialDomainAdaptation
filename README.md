@@ -6,6 +6,8 @@ Code for Improving realistic material property prediction using domain adaptatio
 property prediction using domain adaptation based machine learning. Dig-
 ital Discovery 3, no. 2 (2024): 300-312. [PDF](https://pubs.rsc.org/en/content/articlelanding/2024/dd/d3dd00162h)
 
+Abstract: Materials property prediction models are usually evaluated using random splitting of datasets into training and test datasets, which not only leads to over-estimated performance due to inherent redundancy, typically existent in material datasets, but also deviate from the common practice of materials scientists: they are usually interested in predicting properties for a known subset of related out-of-distribution (OOD) materials rather than universally distributed samples. Feeding such target material formulae/structures to the machine learning models should improve the prediction performance while most current machine learning (ML) models neglect this information. Here we propose to use domain adaptation (DA) to enhance current ML models for property prediction and evaluate their performance improvements in a set of five realistic application scenarios. Our systematic benchmark studies show that there exist DA models that can significantly improve the OOD test set prediction performance while standard ML models and most of the other DA techniques cannot improve or even deteriorate the performance. Our benchmark datasets and DA code can be freely accessed at https://github.com/Little-Cheryl/MatDA.
+
 ### Installation
 
 
