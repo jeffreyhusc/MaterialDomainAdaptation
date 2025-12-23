@@ -1,6 +1,17 @@
 ## MatDA
 Code for Improving realistic material property prediction using domain adaptation based machine learning.
 
+<b>Jeffrey Hu<sup>1</sup></b>, David Liu, Nihang Fu, Rongzhi Dong <br>
+
+<sup>1</sup>University of Illinois Urbana-Champaign <br>
+Department of Material Science and Engineering <br>
+
+Machine Learning and Evolution Laboratory <br>
+Department of Computer Science and Engineering <br>
+University of South Carolina
+
+
+
 ### Cite our paper:
 **Hu, Jeffrey**, David Liu, Nihang Fu, and Rongzhi Dong. Realistic material
 property prediction using domain adaptation based machine learning. Dig-
